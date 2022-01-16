@@ -1,0 +1,27 @@
+{
+  "name": "module_19_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^27.4.6",
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-sass": "^5.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "jest": "^27.4.7",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
